@@ -1,2 +1,2 @@
 # ExamSystem
-Simple Examination System using C# and OOP concepts (MCQ &amp; True/False)
+Updated version with improved structure and OOP design
